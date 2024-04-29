@@ -381,3 +381,21 @@ Existing_entries: 28
 Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-04-29 02:27:37.140815
+------------------------------------------------------
+Started: 2024-04-29 04:21:09.826579
+Existing_entries: 28
+Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2041
+Summarized using GPT-3.5-turbo
+Append: [单卡跑Llama 70B快过双卡，微软硬生生把FP6搞到了A100里 | 开源](https://posts.careerengine.us/p/662f1e00b04d684bcd96cff3)
+Token length: 2372
+Summarized using GPT-3.5-turbo
+Append: [苹果首个AI平板曝光：新iPad Pro直接上M4芯片](https://posts.careerengine.us/p/662f1df11c641d4b8555ba76)
+Token length: 2242
+Summarized using GPT-3.5-turbo
+Append: [Sora大片真相：人工特效参与，被指误导大众](https://posts.careerengine.us/p/662f1df11c641d4b8555ba86)
+Token length: 4185
+Summarized using GPT-3.5-turbo
+Append: [超级智能体生命力觉醒！可自我更新的AI来了，妈妈再也不用担心数据瓶颈难题](https://posts.careerengine.us/p/662f1df11c641d4b8555ba7e)
+append_entries: 4
+Finish: 2024-04-29 04:21:26.777759
