@@ -721,3 +721,18 @@ Existing_entries: 42
 Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-05-03 06:23:44.575170
+------------------------------------------------------
+Started: 2024-05-03 08:21:25.190535
+Existing_entries: 42
+Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2686
+Summarized using GPT-3.5-turbo
+Append: [美图吴欣鸿：国产Sora竞争关键，在创意、工作流和垂直场景 | 中国AIGC产业峰会](https://posts.careerengine.us/p/66346b40a4b5796c016a2def)
+Token length: 1289
+Summarized using GPT-3.5-turbo
+Append: [一次预测多个token，Meta新模型推理加速3倍，编程任务提高17％](https://posts.careerengine.us/p/66346b3fa4b5796c016a2de0)
+Token length: 9616
+Summarized using GPT-3.5-turbo
+Append: [奥特曼承认了神秘gpt2！哈佛MIT巡演继续，斯坦福演讲完整版公开](https://posts.careerengine.us/p/66346b315fefc86bc3a43923)
+append_entries: 3
+Finish: 2024-05-03 08:21:41.387431
