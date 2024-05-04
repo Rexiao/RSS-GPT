@@ -790,3 +790,18 @@ Existing_entries: 45
 Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-05-04 02:24:27.903756
+------------------------------------------------------
+Started: 2024-05-04 04:22:36.463056
+Existing_entries: 45
+Fetching from https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 4023
+Summarized using GPT-3.5-turbo
+Append: [阿里林俊旸：大模型对很多人来说不够用，打造多模态Agent是关键 | 中国AIGC产业峰会](https://posts.careerengine.us/p/6635a2e6d71afb403454fa0d)
+Token length: 1786
+Summarized using GPT-3.5-turbo
+Append: [CVPR‘24：与任务无关的多模态数据也能提升Transformer性能｜港中文&腾讯](https://posts.careerengine.us/p/6635a2e6d71afb403454fa15)
+Token length: 2564
+Summarized using GPT-3.5-turbo
+Append: [AI教母李飞飞首次创业！成立“空间智能”公司，已完成种子轮](https://posts.careerengine.us/p/6635a2d8f409657c47ecc3b1)
+append_entries: 3
+Finish: 2024-05-04 04:22:50.546083
