@@ -54,4 +54,4 @@ These feeds on hosted in the [`docs/` subdirectory](https://github.com/yinan-c/R
 
 I will consider hosting more feeds in the future. Email me or submit an issue if there are any questions using the script or any suggestions.
 
-- https://rsshub.app/wechat/ce/599d7c52f2145121d1aa4698 -> https://Rexiao.github.io/RSS-GPT/wechant-liangziwei.xml
+- https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698 -> https://Rexiao.github.io/RSS-GPT/wechant-liangziwei.xml
