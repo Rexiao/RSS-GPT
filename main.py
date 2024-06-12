@@ -311,7 +311,8 @@ def output(sec, language):
             f.write(rss)
         with open(log_file, "a") as f:
             f.write(f"Finish: {datetime.datetime.now()}\n")
-    except:
+    except Exception as e:
+        print(e)
         with open(log_file, "a") as f:
             f.write(f"error when rendering xml, skip {out_dir}\n")
             print(f"error when rendering xml, skip {out_dir}\n")
