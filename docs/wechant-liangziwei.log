@@ -674,3 +674,10 @@ Append: [AI教育“智”变大考，小度率先交卷了](https://posts.caree
 Append: [Hinton官宣加盟AI初创公司：用AI探索新材料，机器学习大牛担任联创](https://posts.careerengine.us/p/667263d6b78651421cda6533)
 append_entries: 5
 Finish: 2024-06-19 06:18:48.766888
+------------------------------------------------------
+Started: 2024-06-19 08:16:43.492073
+Existing_entries: 44
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/wechant-liangziwei
