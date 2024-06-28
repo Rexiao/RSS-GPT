@@ -1433,3 +1433,22 @@ Existing_entries: 80
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-06-28 10:13:49.573742
+------------------------------------------------------
+Started: 2024-06-28 12:24:32.948873
+Existing_entries: 80
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2076
+Summarized using GPT-3.5-turbo
+Append: [陈丹琦团队图表解读新基准：新王Claude3.5刚及格，但已是模型最强推理表现](https://posts.careerengine.us/p/667e9b86f36d3362b3df9b37)
+Token length: 1711
+Summarized using GPT-3.5-turbo
+Append: [谷歌开源系模型第二代免费开放！27B媲美LLaMA3 70B，单H100或TPU主机可跑](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ffd)
+Token length: 4271
+Summarized using GPT-3.5-turbo
+Append: [炸裂！讯飞现场大秀强干扰语音识别，星火4.0霸榜八个榜单，74种语言自由交流](https://posts.careerengine.us/p/667e9b775a6c7c6236bf6005)
+Token length: 2196
+Summarized using GPT-3.5-turbo
+Append: [AI首次实时生成视频！尤洋团队新作，网友：这是新纪元](https://posts.careerengine.us/p/667e9b775a6c7c6236bf5ff5)
+Append: [华东师范大学的老师，上课已经用上了大模型](https://posts.careerengine.us/p/667e9b6645d36d621db136cf)
+append_entries: 5
+Finish: 2024-06-28 12:24:50.830813
