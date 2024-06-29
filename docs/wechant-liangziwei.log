@@ -1506,3 +1506,21 @@ Existing_entries: 85
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-06-29 06:17:01.306454
+------------------------------------------------------
+Started: 2024-06-29 08:15:44.460406
+Existing_entries: 85
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 1889
+Summarized using GPT-3.5-turbo
+Append: [靠Scaling Laws炼出4D版视频生成模型，多伦多大学北交大等携手开源81K高质量数据集](https://posts.careerengine.us/p/667faba63018801e4a6acc9e)
+Token length: 2768
+Summarized using GPT-3.5-turbo
+Append: [一次可输入多张图像，还能多轮对话！最新开源数据集，让AI聊天更接近现实](https://posts.careerengine.us/p/667fab96487f321dc0951c25)
+Token length: 4292
+Summarized using GPT-3.5-turbo
+Append: [AI如何改变通信？对话联想懂的通信](https://posts.careerengine.us/p/667fab87d18d161da1040755)
+Token length: 2147
+Summarized using GPT-3.5-turbo
+Append: [英伟达布局AI视频，Sora风头快被抢完了](https://posts.careerengine.us/p/667fab87d18d161da104075d)
+append_entries: 4
+Finish: 2024-06-29 08:16:00.918811
