@@ -1750,3 +1750,23 @@ Existing_entries: 97
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-07-02 04:16:52.302647
+------------------------------------------------------
+Started: 2024-07-02 06:19:34.833289
+Existing_entries: 97
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 4604
+Summarized using GPT-3.5-turbo
+Append: [聚焦大模型应用落地，2024全球数字经济大会人工智能专题论坛在京举办](https://posts.careerengine.us/p/668380a3ed12fa17b84a5bc7)
+Summarization failed, append the original article
+error: Error code: 500 - {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}}
+Append: [只需将感知推理能力拆分，2B大模型就能战胜20B！国产新框架高效处理视觉任务](https://posts.careerengine.us/p/668380a3ed12fa17b84a5bbf)
+Summarization failed, append the original article
+error: Error code: 500 - {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}}
+Append: [CVPR'24：文生图提示词自动优化，还发现三个小窍门，人大度小满等机构出品](https://posts.careerengine.us/p/668380a3ed12fa17b84a5bd0)
+Summarization failed, append the original article
+error: Error code: 500 - {'error': {'message': 'The server had an error while processing your request. Sorry about that!', 'type': 'server_error', 'param': None, 'code': None}}
+Append: [姚班大神陈立杰获UC伯克利教职，2025年秋季入职](https://posts.careerengine.us/p/668380907955e7177c0a006a)
+Append: [鹅厂造10亿虚拟人格专搞数据合成：让7B模型数学成绩打平GPT4，还能给弱智吧出题](https://posts.careerengine.us/p/668380907955e7177c0a0073)
+Append: [多模态能力全球TOP3，来自中国从容大模型](https://posts.careerengine.us/p/6683808067d2ce1745ce9c79)
+append_entries: 6
+Finish: 2024-07-02 06:21:00.698896
