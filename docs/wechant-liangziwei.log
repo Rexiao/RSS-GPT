@@ -1836,3 +1836,22 @@ Existing_entries: 103
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-07-03 04:16:14.554330
+------------------------------------------------------
+Started: 2024-07-03 06:19:52.493682
+Existing_entries: 103
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2610
+Summarized using GPT-3.5-turbo
+Append: [Llama也能做图像生成！港大字节推出开源自回归文生图模型，在线体验已开放](https://posts.careerengine.us/p/6684cff91979d0449807158e)
+Token length: 2830
+Summarized using GPT-3.5-turbo
+Append: [参数少80％，效果仍超LoRA！上交大&上海AI Lab推出高效微调框架FLoRA](https://posts.careerengine.us/p/6684cfe76cd93a4471a7b93b)
+Token length: 8385
+Summarized using GPT-3.5-turbo
+Append: [黄仁勋：我们不想当行业领导者](https://posts.careerengine.us/p/6684cfe76cd93a4471a7b933)
+Token length: 2000
+Summarized using GPT-3.5-turbo
+Append: [让编程更简单，豆包MarsCode面向开发者免费开放](https://posts.careerengine.us/p/6684cfe66cd93a4471a7b92a)
+Append: [吃个瓜而已，AI居然写了份研究报告？？](https://posts.careerengine.us/p/6684cfd3d2c00043e5676b6d)
+append_entries: 5
+Finish: 2024-07-03 06:20:22.284004
