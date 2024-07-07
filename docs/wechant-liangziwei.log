@@ -2195,3 +2195,18 @@ Existing_entries: 120
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-07-07 12:22:48.224737
+------------------------------------------------------
+Started: 2024-07-07 14:10:45.348330
+Existing_entries: 120
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 3622
+Summarized using GPT-3.5-turbo
+Append: [英伟达AMD差点合并，老黄提了个条件，结果黄了](https://posts.careerengine.us/p/668a93e1889ffc30e084b10a)
+Token length: 2094
+Summarized using GPT-3.5-turbo
+Append: [北大千问团队推出数学专用版CriticGPT，“找茬”让大模型进步更快](https://posts.careerengine.us/p/668a93e1889ffc30e084b0fa)
+Token length: 4108
+Summarized using GPT-3.5-turbo
+Append: [千呼万唤的可灵网页版来了！基础模型重磅升级，新功能“炸场”WAIC](https://posts.careerengine.us/p/668a93d03375cc30b570b428)
+append_entries: 3
+Finish: 2024-07-07 14:11:01.504515
