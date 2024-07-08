@@ -2264,3 +2264,18 @@ Existing_entries: 123
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-07-08 08:17:06.586936
+------------------------------------------------------
+Started: 2024-07-08 10:14:43.609076
+Existing_entries: 123
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2117
+Summarized using GPT-3.5-turbo
+Append: [支付宝医疗大模型亮相！中英文考试超GPT4，已落地江浙沪一线医院](https://posts.careerengine.us/p/668bb999336c167586a343cd)
+Token length: 2243
+Summarized using GPT-3.5-turbo
+Append: [半小时教你手搓AI视频通话，还有懒人版代码已开源](https://posts.careerengine.us/p/668bb999336c167586a343c4)
+Token length: 4013
+Summarized using GPT-3.5-turbo
+Append: [混元单日调用tokens达千亿后，腾讯大模型战略露出全貌](https://posts.careerengine.us/p/668bb975d7ec5d7530ffca71)
+append_entries: 3
+Finish: 2024-07-08 10:15:11.924120
