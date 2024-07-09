@@ -2351,3 +2351,10 @@ Summarized using GPT-3.5-turbo
 Append: [第一批正在被AIGC重置的行业有话说](https://posts.careerengine.us/p/668ccb20a4f8926df3204039)
 append_entries: 4
 Finish: 2024-07-09 06:18:48.407244
+------------------------------------------------------
+Started: 2024-07-09 08:15:54.246738
+Existing_entries: 130
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/wechant-liangziwei
