@@ -2418,3 +2418,21 @@ Existing_entries: 130
 Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
 append_entries: 0
 Finish: 2024-07-10 04:17:26.605897
+------------------------------------------------------
+Started: 2024-07-10 06:18:32.492780
+Existing_entries: 130
+Fetching from https://rsshub.pseudoyu.com/wechat/ce/599d7c52f2145121d1aa4698
+Token length: 2480
+Summarized using GPT-3.5-turbo
+Append: [DeepMind新方法：训练时间减少13倍，算力降低90％](https://posts.careerengine.us/p/668e0b5600f1de45f8a4a079)
+Token length: 2150
+Summarized using GPT-3.5-turbo
+Append: [Claude编程支持一键共享，第一批网友已经开始晒作品了](https://posts.careerengine.us/p/668e0b5500f1de45f8a4a06a)
+Token length: 1421
+Summarized using GPT-3.5-turbo
+Append: [ControlNet作者新项目爆火：仅一张图生成25秒绘画全过程！不到一天GitHub揽星600+](https://posts.careerengine.us/p/668e0b47726e97455039a025)
+Token length: 4401
+Summarized using GPT-3.5-turbo
+Append: [国产大模型第一梯队玩家，为什么pick了CPU？](https://posts.careerengine.us/p/668e0b46726e97455039a01d)
+append_entries: 4
+Finish: 2024-07-10 06:18:50.809270
